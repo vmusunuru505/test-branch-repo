@@ -16,6 +16,8 @@ and open the template in the editor.
         // added a line in feature2
         // added a line in feature 3
         // added a line in dev branch
+
+        // adding a line in feature 3 again
         ?>
     </body>
 </html>
